@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mina</h1>
-<h3 align="center">Robotics & SWE Student | Passionate About Engineering</h3>
+<h3 align="center">Robotics & SWE Student | Engineering Enthusiast</h3>
 
-- 🔭 I’m currently working on **Binko (an engineering multi-tool)!**
-
-- 🌱 I’m currently learning **ROS2 , PCB Design , C++**
-
-- 👨‍💻 All of my projects are available at [mntadros.dev](mntadros.dev)
-
-- 📄 Know about my experiences [mntadros.dev/resume](mntadros.dev/resume)
-
-- ⚡ Fun fact **I'm currently working on a 3D printer and a autonomous robot at the same time!**
+- 🔭 I’m currently building **Binko**, an engineering multi-tool  
+- 🌱 Learning **ROS2, PCB Design, and C++**  
+- 👨‍💻 See my work at [https://mntadros.dev](https://mntadros.dev)  
+- 📄 View my resume at [https://mntadros.dev/resume](https://mntadros.dev/resume)  
+- ⚡ Fun fact: I'm building a 3D printer and an autonomous robot at the same time  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/mntadros" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="mntadros" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
