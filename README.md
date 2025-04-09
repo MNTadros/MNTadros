@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Binko (an engineering multi-tool)!**
 
-- 🌱 I’m currently learning **ROS2,PCB Design,C++,**
+- 🌱 I’m currently learning **ROS2, PCB Design ,C++**
 
 - 👨‍💻 All of my projects are available at [mntadros.dev](mntadros.dev)
 
