@@ -5,7 +5,7 @@
 - 🌱 Learning **ROS2, PCB Design, and C++**  
 - 👨‍💻 See my work at [mntadros.dev](https://mntadros.dev)  
 - 📄 View my resume at [mntadros.dev/resume](https://mntadros.dev/resume)  
-- ⚡ Fun fact: I'm building a 3D printer and an autonomous robot at the same time  
+- ⚡ Fun fact: I'm building a robot controller and an autonomous robot at the same time  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
